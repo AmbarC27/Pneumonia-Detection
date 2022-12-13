@@ -1,0 +1,1 @@
+img = cv2.imread(r"C:\Users\ambar\Documents\Projects\Pneumonia Detection\chest_xray\Normal\IM-0001-0001.jpeg")
